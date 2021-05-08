@@ -11,6 +11,16 @@
 		0C2D73EA2646B112007A5582 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D73E92646B112007A5582 /* ContentView.swift */; };
 		0C2D73EC2646B112007A5582 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C2D73EB2646B112007A5582 /* Assets.xcassets */; };
 		0C2D73EF2646B112007A5582 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C2D73EE2646B112007A5582 /* Preview Assets.xcassets */; };
+		0C2D73F82646B1A8007A5582 /* DrawingWithPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D73F72646B1A8007A5582 /* DrawingWithPath.swift */; };
+		0C2D73FC2646B37E007A5582 /* DrawingWithShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D73FB2646B37E007A5582 /* DrawingWithShapes.swift */; };
+		0C2D74012646B75D007A5582 /* ShapesAndBorders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D74002646B75D007A5582 /* ShapesAndBorders.swift */; };
+		0C2D74042646BACF007A5582 /* TransformingShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D74032646BACF007A5582 /* TransformingShapes.swift */; };
+		0C2D74072646C106007A5582 /* CreativeBorders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D74062646C106007A5582 /* CreativeBorders.swift */; };
+		0C2D740B2646C81A007A5582 /* LearningMetal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D740A2646C81A007A5582 /* LearningMetal.swift */; };
+		0C2D740E2646D189007A5582 /* SpecialEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D740D2646D189007A5582 /* SpecialEffects.swift */; };
+		0C2D74112646D58E007A5582 /* AnimatingShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D74102646D58E007A5582 /* AnimatingShapes.swift */; };
+		0C2D74142646D93C007A5582 /* ComplexAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D74132646D93C007A5582 /* ComplexAnimations.swift */; };
+		0C2D74172646DC4B007A5582 /* SpiroGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2D74162646DC4B007A5582 /* SpiroGraph.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +30,16 @@
 		0C2D73EB2646B112007A5582 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C2D73EE2646B112007A5582 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0C2D73F02646B112007A5582 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C2D73F72646B1A8007A5582 /* DrawingWithPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingWithPath.swift; sourceTree = "<group>"; };
+		0C2D73FB2646B37E007A5582 /* DrawingWithShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingWithShapes.swift; sourceTree = "<group>"; };
+		0C2D74002646B75D007A5582 /* ShapesAndBorders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesAndBorders.swift; sourceTree = "<group>"; };
+		0C2D74032646BACF007A5582 /* TransformingShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformingShapes.swift; sourceTree = "<group>"; };
+		0C2D74062646C106007A5582 /* CreativeBorders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreativeBorders.swift; sourceTree = "<group>"; };
+		0C2D740A2646C81A007A5582 /* LearningMetal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningMetal.swift; sourceTree = "<group>"; };
+		0C2D740D2646D189007A5582 /* SpecialEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEffects.swift; sourceTree = "<group>"; };
+		0C2D74102646D58E007A5582 /* AnimatingShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingShapes.swift; sourceTree = "<group>"; };
+		0C2D74132646D93C007A5582 /* ComplexAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexAnimations.swift; sourceTree = "<group>"; };
+		0C2D74162646DC4B007A5582 /* SpiroGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiroGraph.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,8 @@
 			children = (
 				0C2D73E72646B112007A5582 /* Project_9_DrawingApp.swift */,
 				0C2D73E92646B112007A5582 /* ContentView.swift */,
+				0C2D74162646DC4B007A5582 /* SpiroGraph.swift */,
+				0C2D73FE2646B383007A5582 /* Tutorials */,
 				0C2D73EB2646B112007A5582 /* Assets.xcassets */,
 				0C2D73F02646B112007A5582 /* Info.plist */,
 				0C2D73ED2646B112007A5582 /* Preview Content */,
@@ -67,6 +89,22 @@
 				0C2D73EE2646B112007A5582 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0C2D73FE2646B383007A5582 /* Tutorials */ = {
+			isa = PBXGroup;
+			children = (
+				0C2D73F72646B1A8007A5582 /* DrawingWithPath.swift */,
+				0C2D73FB2646B37E007A5582 /* DrawingWithShapes.swift */,
+				0C2D74002646B75D007A5582 /* ShapesAndBorders.swift */,
+				0C2D74032646BACF007A5582 /* TransformingShapes.swift */,
+				0C2D74062646C106007A5582 /* CreativeBorders.swift */,
+				0C2D740A2646C81A007A5582 /* LearningMetal.swift */,
+				0C2D740D2646D189007A5582 /* SpecialEffects.swift */,
+				0C2D74102646D58E007A5582 /* AnimatingShapes.swift */,
+				0C2D74132646D93C007A5582 /* ComplexAnimations.swift */,
+			);
+			path = Tutorials;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +176,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C2D74072646C106007A5582 /* CreativeBorders.swift in Sources */,
+				0C2D740B2646C81A007A5582 /* LearningMetal.swift in Sources */,
+				0C2D74172646DC4B007A5582 /* SpiroGraph.swift in Sources */,
+				0C2D73F82646B1A8007A5582 /* DrawingWithPath.swift in Sources */,
+				0C2D74012646B75D007A5582 /* ShapesAndBorders.swift in Sources */,
+				0C2D74112646D58E007A5582 /* AnimatingShapes.swift in Sources */,
 				0C2D73EA2646B112007A5582 /* ContentView.swift in Sources */,
+				0C2D740E2646D189007A5582 /* SpecialEffects.swift in Sources */,
+				0C2D74042646BACF007A5582 /* TransformingShapes.swift in Sources */,
+				0C2D74142646D93C007A5582 /* ComplexAnimations.swift in Sources */,
+				0C2D73FC2646B37E007A5582 /* DrawingWithShapes.swift in Sources */,
 				0C2D73E82646B112007A5582 /* Project_9_DrawingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
